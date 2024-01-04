@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  testAssi
+//  testAssig
 //
 //  Created by Jae hyung Kim on 1/4/24.
 //
@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-       print("Test")
+        // Do any additional setup after loading the view.
     }
 
 
